@@ -6,4 +6,8 @@
     <RootNamespace>Exercicio1_cs</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\BR\Desktop\Exercicio1.cs" Link="Exercicio1.cs" />
+  </ItemGroup>
+
 </Project>
