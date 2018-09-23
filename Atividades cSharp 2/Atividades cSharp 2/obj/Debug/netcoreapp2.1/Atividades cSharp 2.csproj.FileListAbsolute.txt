@@ -1,0 +1,11 @@
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\bin\Debug\netcoreapp2.1\Atividades cSharp 2.deps.json
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\bin\Debug\netcoreapp2.1\Atividades cSharp 2.runtimeconfig.json
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\bin\Debug\netcoreapp2.1\Atividades cSharp 2.runtimeconfig.dev.json
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\bin\Debug\netcoreapp2.1\Atividades cSharp 2.dll
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\bin\Debug\netcoreapp2.1\Atividades cSharp 2.pdb
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\obj\Debug\netcoreapp2.1\Atividades cSharp 2.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\obj\Debug\netcoreapp2.1\Atividades cSharp 2.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\obj\Debug\netcoreapp2.1\Atividades cSharp 2.AssemblyInfoInputs.cache
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\obj\Debug\netcoreapp2.1\Atividades cSharp 2.AssemblyInfo.cs
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\obj\Debug\netcoreapp2.1\Atividades cSharp 2.dll
+C:\Users\BR\source\repos\Atividades cSharp 2\Atividades cSharp 2\obj\Debug\netcoreapp2.1\Atividades cSharp 2.pdb
